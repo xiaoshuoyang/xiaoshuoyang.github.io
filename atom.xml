@@ -6,7 +6,7 @@
   <link href="https://xiaoshuoyang.github.io/atom.xml" rel="self"/>
   
   <link href="https://xiaoshuoyang.github.io/"/>
-  <updated>2023-06-14T06:21:53.837Z</updated>
+  <updated>2023-06-20T08:22:02.511Z</updated>
   <id>https://xiaoshuoyang.github.io/</id>
   
   <author>
@@ -17,16 +17,138 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>python学习笔记（二）：数据类型转换+解释器</title>
+    <link href="https://xiaoshuoyang.github.io/2023/06/19/python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%B8%89%EF%BC%89%EF%BC%9A%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2-%E8%A7%A3%E9%87%8A%E5%99%A8-%E6%B3%A8%E9%87%8A/"/>
+    <id>https://xiaoshuoyang.github.io/2023/06/19/python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%B8%89%EF%BC%89%EF%BC%9A%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2-%E8%A7%A3%E9%87%8A%E5%99%A8-%E6%B3%A8%E9%87%8A/</id>
+    <published>2023-06-19T11:45:22.000Z</published>
+    <updated>2023-06-20T08:22:02.511Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    <category term="python学习笔记" scheme="https://xiaoshuoyang.github.io/categories/python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="python学习笔记" scheme="https://xiaoshuoyang.github.io/tags/python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>python学习笔记（二）：基本数据类型</title>
+    <link href="https://xiaoshuoyang.github.io/2023/06/17/python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%BA%8C%EF%BC%89%EF%BC%9A%E5%9F%BA%E6%9C%AC%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/"/>
+    <id>https://xiaoshuoyang.github.io/2023/06/17/python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%BA%8C%EF%BC%89%EF%BC%9A%E5%9F%BA%E6%9C%AC%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/</id>
+    <published>2023-06-17T07:57:20.000Z</published>
+    <updated>2023-07-04T08:05:23.684Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Python3-基本数据类型&quot;&gt;&lt;a href=&quot;#Python3-基本数据类型&quot; class=&quot;headerlink&quot; title=&quot;Python3 基本数据类型&quot;&gt;&lt;/a&gt;Python3 基本数据类型&lt;/h1&gt;&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    <category term="python学习笔记" scheme="https://xiaoshuoyang.github.io/categories/python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>灿烂千阳读书笔记</title>
+    <link href="https://xiaoshuoyang.github.io/2023/06/15/%E7%81%BF%E7%83%82%E5%8D%83%E9%98%B3%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    <id>https://xiaoshuoyang.github.io/2023/06/15/%E7%81%BF%E7%83%82%E5%8D%83%E9%98%B3%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</id>
+    <published>2023-06-15T11:37:08.000Z</published>
+    <updated>2023-07-04T08:05:55.173Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;娜娜：就像指南针总是指向北方一样，男人怪罪的手指总是指向女人&quot;&gt;&lt;a href=&quot;#娜娜：就像指南针总是指向北方一样，男人怪罪的手指总是指向女人&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="读书笔记" scheme="https://xiaoshuoyang.github.io/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>三体读书笔记</title>
+    <link href="https://xiaoshuoyang.github.io/2023/06/15/%E4%B8%89%E4%BD%93%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    <id>https://xiaoshuoyang.github.io/2023/06/15/%E4%B8%89%E4%BD%93%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</id>
+    <published>2023-06-15T11:36:43.000Z</published>
+    <updated>2023-06-15T11:41:13.462Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;《三体》&quot;&gt;&lt;a href=&quot;#《三体》&quot; class=&quot;headerlink&quot; title=&quot;《三体》&quot;&gt;&lt;/a&gt;《三体》&lt;/h1&gt;&lt;p&gt;《三体》有三部，在此中，许多人物都给我留下了不可磨灭的印象，通过文字，我走过他们一生中最闪耀的时刻。&lt;/p&gt;
+&lt;h2</summary>
+        
+      
+    
+    
+    
+    <category term="读书笔记" scheme="https://xiaoshuoyang.github.io/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="小说" scheme="https://xiaoshuoyang.github.io/tags/%E5%B0%8F%E8%AF%B4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>python学习笔记</title>
+    <link href="https://xiaoshuoyang.github.io/2023/06/15/python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%B8%80%EF%BC%89%EF%BC%9A%E7%AE%80%E4%BB%8B%E5%92%8C%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/"/>
+    <id>https://xiaoshuoyang.github.io/2023/06/15/python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%B8%80%EF%BC%89%EF%BC%9A%E7%AE%80%E4%BB%8B%E5%92%8C%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/</id>
+    <published>2023-06-15T10:30:49.000Z</published>
+    <updated>2023-07-04T08:13:19.868Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;At first :</summary>
+        
+      
+    
+    
+    
+    <category term="python学习笔记" scheme="https://xiaoshuoyang.github.io/categories/python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>不知道多少年的远景展望</title>
     <link href="https://xiaoshuoyang.github.io/2023/06/13/%E4%B8%8D%E7%9F%A5%E9%81%93%E5%A4%9A%E5%B0%91%E5%B9%B4%E7%9A%84%E8%BF%9C%E6%99%AF%E5%B1%95%E6%9C%9B/"/>
     <id>https://xiaoshuoyang.github.io/2023/06/13/%E4%B8%8D%E7%9F%A5%E9%81%93%E5%A4%9A%E5%B0%91%E5%B9%B4%E7%9A%84%E8%BF%9C%E6%99%AF%E5%B1%95%E6%9C%9B/</id>
     <published>2023-06-13T10:07:25.000Z</published>
-    <updated>2023-06-14T06:21:53.837Z</updated>
+    <updated>2023-07-04T08:06:51.260Z</updated>
     
     
     <summary type="html">Here&#39;s something encrypted, password is required to continue reading.</summary>
     
     
+    
+    <category term="人生规划书" scheme="https://xiaoshuoyang.github.io/categories/%E4%BA%BA%E7%94%9F%E8%A7%84%E5%88%92%E4%B9%A6/"/>
     
     
     <category term="方法论" scheme="https://xiaoshuoyang.github.io/tags/%E6%96%B9%E6%B3%95%E8%AE%BA/"/>
@@ -38,7 +160,7 @@
     <link href="https://xiaoshuoyang.github.io/2023/06/13/Markdown%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/"/>
     <id>https://xiaoshuoyang.github.io/2023/06/13/Markdown%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/</id>
     <published>2023-06-13T10:02:28.000Z</published>
-    <updated>2023-06-13T11:42:58.290Z</updated>
+    <updated>2023-07-04T08:06:39.441Z</updated>
     
     
       
@@ -50,6 +172,8 @@
       
     
     
+    
+    <category term="如何使用博客" scheme="https://xiaoshuoyang.github.io/categories/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E5%8D%9A%E5%AE%A2/"/>
     
     
     <category term="方法论" scheme="https://xiaoshuoyang.github.io/tags/%E6%96%B9%E6%B3%95%E8%AE%BA/"/>
